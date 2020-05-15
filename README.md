@@ -27,9 +27,13 @@ This is all a part of the bigger picture as you have learned how to effectively 
 Describe your team's dynamics as they relate to the effectiveness in designing, building, and delivering software to real users.
 
 - What sorts of strengths do _you_ bring to the team as a contributor in your role? List out anything that highlights how you've helped push this project along.
+I have specialized heavily in UI. My strength in this area has been the ability to implement new styling while maintaining current logical functionality. 
 - What are some of your weaknesses as a member of your team? How have you worked to overcome some of your individual weaknesses? Be specific.
+I drank to much redbull. Made my tum tum hurt.
 - Describe a teamwork problem that you as a team have had to overcome. How did you contribute to the problem itself? How did you contribute to the solution to the problem? Be specific.
+Havent really had any problems.
 - How is your team measuring the success of your product? How do you know you are solving user problems? How are you using these measurements to inform what to build next?
+By making sure we follow the release canvas. We know we are solving user problems because by making the ui easier to disseminate. 
 
 ## Submitting your work
 
